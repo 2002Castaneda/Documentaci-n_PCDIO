@@ -1,2 +1,2 @@
-# Documentaci-n_PCDIO
+# Documentacion_PCDIO
 Este repositorio contiene la información relevante del desarrollo de las diferentes etapas del diseño de nuestro dispositivo Easy Peel
