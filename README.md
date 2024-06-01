@@ -1,5 +1,4 @@
-Proyecto Easy Peel: Formulario de Definición del Proyecto (PID)
-1. Establezca el vínculo del proyecto con la agenda corporativa
+Proyecto Easy Peel: Formulario de Definición del Proyecto
 El proyecto "Easy Peel" busca optimizar el proceso de pelado de mazorcas de cacao, impactando positivamente la cadena de valor en la industria del chocolate y el sector agrícola colombiano. Alineado con la transformación productiva, la internacionalización y la acción climática, este proyecto pretende:
 
 Eficiencia en la producción: Aumentar la eficiencia reduciendo tiempo y recursos necesarios.
